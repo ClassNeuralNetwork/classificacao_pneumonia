@@ -17,7 +17,7 @@ Link da base de dados: https://www.kaggle.com/datasets/paultimothymooney/chest-x
 
 ## Dados de entrada
  
-Imagens de raios x do tórax
+Imagens de raios x de tórax
 
 
 ## Saída
